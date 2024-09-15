@@ -14,7 +14,7 @@
 - loading the .csv file was fairly simple, just used the built in function that panda provided which is the .read code
 - for displaying, thanks to the function .head() and .tail(), I was able to attack the code easily as the two codes mentioned does exactly what the problem asks
 
-#Problem 2
+# Problem 2
 ## Task:
 - Display the first five rows with odd-numbered columns
 - Display the row that constains the 'Model' of 'Mazda RX4'
