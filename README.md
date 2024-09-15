@@ -33,4 +33,4 @@
 # Versions
 - 1.0
 - 1.1
-  -- Just changed the current working path into a new path for orderliness.
+  -- Just changed the current working directory path for loding files into a new path for orderliness.
